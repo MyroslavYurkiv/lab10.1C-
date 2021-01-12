@@ -1,0 +1,2 @@
+D:\Univer\Virtualka\lab10.1C++\Debug\lab10.1C++.exe
+D:\Univer\Virtualka\lab10.1C++\Debug\lab10.1C++.pdb
